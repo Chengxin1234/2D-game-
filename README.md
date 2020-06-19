@@ -3,4 +3,4 @@ This 2D games using the Java design pattern include:  Creational Patterns(Factor
 
 
 # Installation requirements:
-Need to use gradle and Javafx to launch this game
+Need to use gradle and Javafx(11.0.2) to launch this game
